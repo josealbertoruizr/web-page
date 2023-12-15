@@ -1,9 +1,10 @@
-import './App.css';
-
-
 // Here we are importing all the components and containers from the index.js folders
 import { Brand, Cta, Navbar } from './components/index';
 import { Blog, Features, Footer, Header, Possibility, WhatGPT } from './containers/index';
+
+// All the styles from the app
+import './App.css';
+
 
 function App() {
   return (
