@@ -5,6 +5,7 @@ import { Blog, Features, Footer, Header, Possibility, WhatGPT } from './containe
 // All the styles from the app
 import './App.css';
 
+// Finish the website on dec 15 2023 
 
 function App() {
   return (
